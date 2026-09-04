@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Downloads\\Login-and-Register-main-20260904T150201Z-1-001\\Login-and-Register-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9A61358-1B63-46CD-885D-BC2AD901BCCA}|Login and Register\\Login and Register.csproj|c:\\users\\user\\downloads\\login-and-register-main-20260904t150201z-1-001\\login-and-register-main\\login and register\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A9A61358-1B63-46CD-885D-BC2AD901BCCA}|Login and Register\\Login and Register.csproj|solutionrelative:login and register\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9A61358-1B63-46CD-885D-BC2AD901BCCA}|Login and Register\\Login and Register.csproj|c:\\users\\user\\downloads\\login-and-register-main-20260904t150201z-1-001\\login-and-register-main\\login and register\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9A61358-1B63-46CD-885D-BC2AD901BCCA}|Login and Register\\Login and Register.csproj|solutionrelative:login and register\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9A61358-1B63-46CD-885D-BC2AD901BCCA}|Login and Register\\Login and Register.csproj|C:\\Users\\user\\Downloads\\Login-and-Register-main-20260904T150201Z-1-001\\Login-and-Register-main\\login and register\\frmregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9A61358-1B63-46CD-885D-BC2AD901BCCA}|Login and Register\\Login and Register.csproj|solutionrelative:login and register\\frmregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/LAPTOP_N1D09Q07/tbl_users/True/SqlTable/dbo.tbl_users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9A61358-1B63-46CD-885D-BC2AD901BCCA}|Login and Register\\Login and Register.csproj|C:\\Users\\user\\Downloads\\Login-and-Register-main-20260904T150201Z-1-001\\Login-and-Register-main\\login and register\\frmregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A9A61358-1B63-46CD-885D-BC2AD901BCCA}|Login and Register\\Login and Register.csproj|solutionrelative:login and register\\frmregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9A61358-1B63-46CD-885D-BC2AD901BCCA}|Login and Register\\Login and Register.csproj|C:\\Users\\user\\Downloads\\Login-and-Register-main-20260904T150201Z-1-001\\Login-and-Register-main\\login and register\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A9A61358-1B63-46CD-885D-BC2AD901BCCA}|Login and Register\\Login and Register.csproj|solutionrelative:login and register\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9A61358-1B63-46CD-885D-BC2AD901BCCA}|Login and Register\\Login and Register.csproj|C:\\Users\\user\\Downloads\\Login-and-Register-main-20260904T150201Z-1-001\\Login-and-Register-main\\login and register\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A9A61358-1B63-46CD-885D-BC2AD901BCCA}|Login and Register\\Login and Register.csproj|solutionrelative:login and register\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dbo.tbl_users [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/LAPTOP_N1D09Q07/tbl_users/True/SqlTable/dbo.tbl_users.sql",
+              "ToolTip": "dbo.tbl_users [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-09-04T16:03:35.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Login-and-Register-main-20260904T150201Z-1-001\\Login-and-Register-main\\Login and Register\\App.config",
+              "RelativeDocumentMoniker": "Login and Register\\App.config",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Login-and-Register-main-20260904T150201Z-1-001\\Login-and-Register-main\\Login and Register\\App.config",
+              "RelativeToolTip": "Login and Register\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAACLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-09-04T15:30:16.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmRegister.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Login-and-Register-main-20260904T150201Z-1-001\\Login-and-Register-main\\Login and Register\\frmRegister.cs",
+              "RelativeDocumentMoniker": "Login and Register\\frmRegister.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Login-and-Register-main-20260904T150201Z-1-001\\Login-and-Register-main\\Login and Register\\frmRegister.cs",
+              "RelativeToolTip": "Login and Register\\frmRegister.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAzwDoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T15:02:52.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmRegister.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Login-and-Register-main-20260904T150201Z-1-001\\Login-and-Register-main\\Login and Register\\frmRegister.cs",
+              "RelativeDocumentMoniker": "Login and Register\\frmRegister.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Login-and-Register-main-20260904T150201Z-1-001\\Login-and-Register-main\\Login and Register\\frmRegister.cs [Design]",
+              "RelativeToolTip": "Login and Register\\frmRegister.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T15:02:52.765Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Login-and-Register-main-20260904T150201Z-1-001\\Login-and-Register-main\\Login and Register\\frmLogin.cs",
+              "RelativeDocumentMoniker": "Login and Register\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Login-and-Register-main-20260904T150201Z-1-001\\Login-and-Register-main\\Login and Register\\frmLogin.cs",
+              "RelativeToolTip": "Login and Register\\frmLogin.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T15:02:52.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Login-and-Register-main-20260904T150201Z-1-001\\Login-and-Register-main\\Login and Register\\frmLogin.cs",
+              "RelativeDocumentMoniker": "Login and Register\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Login-and-Register-main-20260904T150201Z-1-001\\Login-and-Register-main\\Login and Register\\frmLogin.cs [Design]",
+              "RelativeToolTip": "Login and Register\\frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T15:02:53.096Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Login-and-Register-main-20260904T150201Z-1-001\\Login-and-Register-main\\Login and Register\\frmDashboard.cs",
+              "RelativeDocumentMoniker": "Login and Register\\frmDashboard.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Login-and-Register-main-20260904T150201Z-1-001\\Login-and-Register-main\\Login and Register\\frmDashboard.cs [Design]",
+              "RelativeToolTip": "Login and Register\\frmDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T15:02:53.096Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
