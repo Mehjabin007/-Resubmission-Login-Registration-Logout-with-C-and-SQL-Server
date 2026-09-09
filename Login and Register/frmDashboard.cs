@@ -16,7 +16,6 @@ namespace Login_and_Register
         {
             InitializeComponent();
         }
-
         private void visitWeb_Click(object sender, EventArgs e)
         {
             bmBrowser.Navigate("https://bloggingmetrics.com/");
@@ -24,10 +23,9 @@ namespace Login_and_Register
 
         private void btnLogout_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Goodbye Sayan");
+            MessageBox.Show("Goodbye Faiza007");
             Application.Exit();
         }
-
         private void frmDashboard_Load(object sender, EventArgs e)
         {
 
